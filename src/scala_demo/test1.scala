@@ -13,9 +13,9 @@ object test1 {
 
   def main(args: Array[String]): Unit = {
 
-        val a = 0
-        val b = 99
-        print(a + b)
+    //    val a = 0
+    //    val b = 99
+    //    print(a + b)
 
   }
 
